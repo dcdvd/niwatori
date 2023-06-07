@@ -1921,7 +1921,7 @@
                     "texCoord" : 0
                 },
                 "metallicFactor" : 0,
-                "roughnessFactor" : 0.30682075023651123
+                "roughnessFactor" : 0.3568207621574402
             }
         },
         {
@@ -1938,7 +1938,7 @@
                     "texCoord" : 0
                 },
                 "metallicFactor" : 0,
-                "roughnessFactor" : 0.6636414527893066
+                "roughnessFactor" : 0.3636414408683777
             }
         }
     ],
